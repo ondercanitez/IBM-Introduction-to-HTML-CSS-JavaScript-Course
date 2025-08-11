@@ -1,5 +1,4 @@
 # IBM-Introduction-to-HTML-CSS-JavaScript-Course
 Coursera IBM Introduction to HTML, CSS, &amp; JavaScript Course projects
-This project is a personal portfolio webpage developed as part of the Introduction to HTML, CSS, & JavaScript course. The goal was to apply the fundamental concepts learned in class by building a functional, visually appealing, and responsive webpage that showcases my skills, projects, and contact information.
+This repository contains all the projects I completed throughout the Introduction to HTML, CSS & JavaScript course. During the course, I learned fundamental web development skills and applied them by building various projects. These helped me practice creating page structures with HTML, styling with CSS, and adding interactivity with JavaScript.
 
-The portfolio serves as both a practical exercise in front-end development and a foundation for future, more advanced projects.
